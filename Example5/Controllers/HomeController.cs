@@ -15,7 +15,12 @@ namespace Example5.Controllers
 
         public IActionResult Index()
         {
-            return Content("This is Orinal repository");
+            return Content("This is Master branch");
+        }
+
+        public void f1()
+        {
+
         }
 
         public IActionResult Privacy()
