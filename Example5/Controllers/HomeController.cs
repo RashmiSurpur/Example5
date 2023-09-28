@@ -15,10 +15,14 @@ namespace Example5.Controllers
 
         public IActionResult Index()
         {
-            return Content("This is Master branch");
+            return Content("This is Sub-branch1");
         }
 
         public void f1()
+        {
+
+        }
+        public void f2()
         {
 
         }
