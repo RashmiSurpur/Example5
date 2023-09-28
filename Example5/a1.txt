@@ -1,0 +1,5 @@
+Hi 
+
+Out of 43 participants  32 trainees have not received their HCL Laptop
+Only few of them have received HCL laptop. Those who have received HCL laptop , have not installed Visual Studio 
+Many of them are facing difficulty to
